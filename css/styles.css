@@ -18,7 +18,10 @@ h3{
   padding-top: 70px;
   padding-bottom: 70px;
 }
-p1{color: black;}
+p1{
+  color: black;
+}
+
 body{
   background-color: lightgrey;
 }
