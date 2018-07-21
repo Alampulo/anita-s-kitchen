@@ -96,7 +96,7 @@ body{
     transition: 0.3s;
 }
 
-.overlay a:hover, .overlay a:focus {
+h6.overlay a:hover, .overlay a:focus {
     color: #f1f1f1;
 }
 
