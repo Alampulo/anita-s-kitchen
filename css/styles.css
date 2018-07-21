@@ -2,6 +2,7 @@ h3{
   color: white;
   font-size: 28px;
 }
+
 .medal{
   background-image: url("../img/foodsBg.jpg");
   box-sizing:border-box;
@@ -13,6 +14,7 @@ h3{
 .active{
   font-size: 25px;
 }
+
 #photos{
   background-color: white;
   padding-top: 70px;
