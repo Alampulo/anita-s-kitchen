@@ -142,7 +142,7 @@ h6.overlay a:hover, .overlay a:focus {
   background-image: url("../img/breakfast.jpg");
   background-size: cover;
 }
-.fast:hover{
+h6.fast:hover{
   opacity: 0.5;
 }
 .breakfast {
