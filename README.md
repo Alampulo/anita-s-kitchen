@@ -8,7 +8,6 @@ Anita should be able to monitor progress of the site through chrome.
 
 ## BY
 Bryan Juma
-
 ## Instructions
 * In order for the site to be of use make sure you have a javascript enabled browser i recomend google chrome
 * Whatever images or text is there should not be reused somewhere else.
